@@ -1,0 +1,6 @@
+minio
+tqdm
+tensorflow-gpu=1.15
+keras=2.2.4
+numpy
+pandas
